@@ -1,0 +1,22 @@
+body {
+    background-color: black; 
+    font-family:'Dancing Script'; 
+   color:white;
+} 
+ 
+h1 {background-color: white; 
+    color: black; 
+   
+} 
+
+ul {background-color: white; 
+    color: black; 
+   
+} 
+
+li {background-color: white;} 
+
+
+a {
+    color: black;
+}
